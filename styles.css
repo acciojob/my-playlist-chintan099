@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
-.main{
+body{
 /* 	border:2px solid red; */
-	background-color:rgb(204, 204, 204);
+	background-color:rgba(204, 204, 204);
 }
 h1 ,h2{
 	text-align:center;
