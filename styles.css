@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+.main{
+/* 	border:2px solid red; */
+	background-color:rgb(204, 204, 204);
+}
+h1 ,h2{
+	text-align:center;
+}
+li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+video{
+	width:80%;
+	height:100%;
+	background-color:rgb(255,255,255);
+	border:2px solid grey;
+	border-radius:5px;
+	padding:2px;
+	margin:35px;
+}
+.player_one{
+	margin:15px;
+	justify-content:center;
+	background-color:rgb(255, 255, 255);
+/* 	border:2px solid red; */
+	
+}
+ul{
+	background-color:#FFFFFF;
+	border:2px solid grey;
+	border-radius:4px;
+	margin:15px;
+}
