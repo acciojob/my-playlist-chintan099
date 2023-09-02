@@ -21,7 +21,7 @@ video{
 	padding:2px;
 	margin:35px;
 }
-.player_one{
+.player_one ,.player_two{
 	margin:15px;
 	justify-content:center;
 	background-color:rgb(255, 255, 255);
